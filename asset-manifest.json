@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DVXSW/my-app/static/css/main.8cc7050f.css",
+    "main.js": "/DVXSW/my-app/static/js/main.e35f7cc0.js",
+    "static/js/787.28cb0dcd.chunk.js": "/DVXSW/my-app/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/DVXSW/my-app/index.html",
+    "main.8cc7050f.css.map": "/DVXSW/my-app/static/css/main.8cc7050f.css.map",
+    "main.e35f7cc0.js.map": "/DVXSW/my-app/static/js/main.e35f7cc0.js.map",
+    "787.28cb0dcd.chunk.js.map": "/DVXSW/my-app/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8cc7050f.css",
+    "static/js/main.e35f7cc0.js"
+  ]
+}
